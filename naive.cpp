@@ -25,4 +25,7 @@ size_t m2_cols = std::size(matrix2[0]);
 
 std::print("Matrix1 (rows, cols) ({}, {}) \nMatrix2 (rows, cols) ({}, {})", m1_rows, m1_cols, m2_rows, m2_cols);
 
+
+// naive multiplication here
+
 }
